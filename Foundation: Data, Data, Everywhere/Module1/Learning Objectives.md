@@ -1,3 +1,5 @@
+**Introduction to Data Analytics**
+
 Data helps us make decisions in everyday life and in business. In this first part of the course, you’ll learn how data analysts use data analytics and the tools of their trade to inform those decisions. You’ll also discover more about this course and the overall program expectations.
 
 **Learning Objectives**
